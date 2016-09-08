@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SaveBabyProfile-SuccessfulySave</key>
+	<string>The baby profile has been saved sucessfully.</string>
+	<key>SaveBabyProfile-InvalidModel</key>
+	<string>To save the baby profile, please ensure that all the fields are properly filled.</string>
+</dict>
+</plist>
